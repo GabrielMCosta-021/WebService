@@ -1,0 +1,33 @@
+.botao{
+  font-size: 13px;
+}
+#cancelar{
+  text-align: center;
+}
+
+/*Index*/
+#salvar{
+    background-color: #00BFFF;
+}
+#listar{
+  background-color: 	#00CED1;
+}
+
+/*Listar*/
+
+#salvarEdit{
+  color: black;
+  background-color: #F0FFFF;
+}
+#editar{
+    color: black;
+    background-color: #F0F8FF;
+}
+#cancelar{  
+  color: black;
+  background-color: #E6E6FA;
+}
+#excluir{
+  color: black;
+  background-color: #F0FFF0;
+}
